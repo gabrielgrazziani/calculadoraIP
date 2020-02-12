@@ -5,9 +5,9 @@
 
 ## Função
 
-### Programa criado em java, para ser operado via terminal. Com Objetivo de Descobrir a classe de:
+### Programa criado em java, para ser operado via terminal. Com Objetivo de Descobrir:
 
-      - um endereço IP.
+      - Classe deum endereço IP.
 
       - Comparação de IPs padrão.
 
